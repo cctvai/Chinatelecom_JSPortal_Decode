@@ -4,11 +4,11 @@
 
 ![image](https://raw.githubusercontent.com/NullYing/Chinatelecom_JSPortal_Decode/master/image.jpg)
 
-/***
-///////////////////////////////////
-    Copyleft © 2016 NULLYING
-      	Author:白月秋见心
-    http://www.lastfighting.com/
-    Email: ourweijiang@gmail.com
-///////////////////////////////////
-***
+##Copyleft
+
+    ///////////////////////////////////
+        Copyleft © 2016 NULLYING
+          	Author:白月秋见心
+        http://www.lastfighting.com/
+        Email: ourweijiang@gmail.com
+    ///////////////////////////////////
